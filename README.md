@@ -1,13 +1,11 @@
-
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Gabriel+Rampelotti...;Tenho+19+Anos...;Sou+De+Curitiba,+Paraná...;Sou+Estudante+De+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Gabriel+Rampelotti...;Tenho+19+Anos...;Sou+De+Curitiba,+Paraná...;Sou+Estudante+De+Ciência+da+Computação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <h4>Em 2020, comecei meus estudos na área de desenvolvimento, adquirindo habilidades em diversas linguagens de programação. Minha trajetória acadêmica é caracterizada pela dedicação e constante aprimoramento, refletindo minha paixão por tecnologia e inovação.</h4>
 <h4>Sou estudante de Ciência da Computação na <a href="https://www.unicuritiba.edu.br/">Unicuritiba</a>, com conhecimentos em Java, JavaScript e React.js, e estou me especializando para me tornar um desenvolvedor full-stack.</h4>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rampelotti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampelotti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rampelotti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampelotti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Linguagens Mais Usadas" />
 </div>
 
 ### Habilidades Principais:
@@ -29,7 +27,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-  
 ### Estudando Neste Momento:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
